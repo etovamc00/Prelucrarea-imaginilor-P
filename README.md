@@ -1,0 +1,1 @@
+# Prelucrarea-imaginilor-P
