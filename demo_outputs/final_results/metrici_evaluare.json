@@ -1,0 +1,58 @@
+[
+    {
+        "Imagine": "0001.png",
+        "PSNR": 15.21,
+        "SSIM": 0.5169,
+        "LPIPS": 0.5479,
+        "Runtime_sec": 0.355
+    },
+    {
+        "Imagine": "0002.png",
+        "PSNR": 12.35,
+        "SSIM": 0.5214,
+        "LPIPS": 0.5269,
+        "Runtime_sec": 0.0092
+    },
+    {
+        "Imagine": "0003.png",
+        "PSNR": 13.28,
+        "SSIM": 0.4911,
+        "LPIPS": 0.5387,
+        "Runtime_sec": 0.0064
+    },
+    {
+        "Imagine": "0004.png",
+        "PSNR": 13.69,
+        "SSIM": 0.4645,
+        "LPIPS": 0.4994,
+        "Runtime_sec": 0.0119
+    },
+    {
+        "Imagine": "0005.png",
+        "PSNR": 15.35,
+        "SSIM": 0.581,
+        "LPIPS": 0.5036,
+        "Runtime_sec": 0.0066
+    },
+    {
+        "Imagine": "0006.png",
+        "PSNR": 15.25,
+        "SSIM": 0.5155,
+        "LPIPS": 0.5118,
+        "Runtime_sec": 0.0062
+    },
+    {
+        "Imagine": "0007.png",
+        "PSNR": 13.56,
+        "SSIM": 0.4535,
+        "LPIPS": 0.5193,
+        "Runtime_sec": 0.007
+    },
+    {
+        "Imagine": "0008.png",
+        "PSNR": 16.6,
+        "SSIM": 0.4761,
+        "LPIPS": 0.5571,
+        "Runtime_sec": 0.0058
+    }
+]

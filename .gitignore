@@ -1,0 +1,9 @@
+ .venv/
+.idea/
+__pycache__/
+*.py[cod]
+
+checkpoints/*.ckpt
+checkpoints/*.pth
+dataset_sir2.zip
+dataset_sir2/
